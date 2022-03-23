@@ -1,0 +1,3 @@
+/home/dangvhb/dangvhbwork/multithread/build/CMakeFiles/rebuild_cache.dir
+/home/dangvhb/dangvhbwork/multithread/build/CMakeFiles/testMultiThread.dir
+/home/dangvhb/dangvhbwork/multithread/build/CMakeFiles/edit_cache.dir
