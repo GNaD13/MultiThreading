@@ -22,7 +22,7 @@ public:
     };
 
     AIApplication(Application* app);
-    ~AIApplication();
+    virtual ~AIApplication();
 
     virtual bool Initialize(int numThreads) = 0;
     virtual void Run();
