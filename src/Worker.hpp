@@ -11,7 +11,7 @@ class Worker
 {
 public:
     Worker(AIApplication* owner);
-    ~Worker();
+    virtual ~Worker();
     
     virtual void runThread() = 0;
     virtual void threadFunc() = 0;
